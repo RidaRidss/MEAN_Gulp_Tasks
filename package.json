@@ -1,0 +1,35 @@
+{
+  "name": "express_task__using_gulp",
+  "version": "1.0.0",
+  "description": "gulp task practice in express code",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-rimraf": "^0.1.1",
+    "gulp-typescript": "^2.9.0",
+    "tsd": "^0.6.4",
+    "typescript": "^1.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo \\\\\\\\\\\\\\\"Error: no test specified\\\\\\\\\\\\\\\" && exit 1\\\\\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RidaRidss/Express_Nodejs_Gulp_Tasks.git"
+  },
+  "keywords": [
+    "express",
+    "gulp",
+    "Nodejs"
+  ],
+  "author": "Rida Bilgrami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RidaRidss/Express_Nodejs_Gulp_Tasks/issues"
+  },
+  "homepage": "https://github.com/RidaRidss/Express_Nodejs_Gulp_Tasks#readme"
+}
