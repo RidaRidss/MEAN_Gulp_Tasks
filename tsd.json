@@ -4,7 +4,8 @@
   "ref": "master",
   "path": "typings",
   "bundle": "typings/tsd.d.ts",
-  "installed": { "express/express.d.ts": {
+  "installed": {
+    "express/express.d.ts": {
     "commit": "38fb591c6eba840e0b53d1110302b8e4fb04651c"
   },
     "node/node.d.ts": {
@@ -15,6 +16,12 @@
     },
     "mime/mime.d.ts": {
       "commit": "38fb591c6eba840e0b53d1110302b8e4fb04651c"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "af76bf46025371c760d8fe8c03cf874428da6124"
+    },
+    "morgan/morgan.d.ts": {
+      "commit": "af76bf46025371c760d8fe8c03cf874428da6124"
     }
   }
 }

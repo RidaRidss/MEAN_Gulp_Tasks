@@ -1,0 +1,11 @@
+$h1Size: 4em;
+$mainColour: #845;
+$color:#FFBABA;
+body { font-family: sans-serif; }
+
+.container { max-width: 960px; margin: auto; padding: 10px 30px; }
+h1{
+  font-size: $h1Size * .6;
+  color: $color;
+  background-color: $mainColour;
+}

@@ -839,12 +839,12 @@ declare module "express" {
              * you may use this method. For example mapping the EJS template engine to
              * ".html" files:
              *
-             *     app.engine('html', require('ejs').renderFile);
+             *     app.engine('html', require('ejs-locals').renderFile);
              *
              * In this case EJS provides a `.renderFile()` method with
              * the same signature that Express expects: `(path, options, callback)`,
-             * though note that it aliases this method as `ejs.__express` internally
-             * so if you're using ".ejs" extensions you dont need to do anything.
+             * though note that it aliases this method as `ejs-locals.__express` internally
+             * so if you're using ".ejs-locals" extensions you dont need to do anything.
              *
              * Some template engines do not follow this convention, the
              * [Consolidate.js](https://github.com/visionmedia/consolidate.js)
