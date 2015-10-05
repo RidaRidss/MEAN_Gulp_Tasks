@@ -1,5 +1,5 @@
 {
-  "name": "express_task__using_gulp",
+  "name": "mean_gulp_tasks",
   "version": "1.0.0",
   "description": "gulp task practice in express code",
   "main": "gulpfile.js",
