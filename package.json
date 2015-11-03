@@ -1,7 +1,7 @@
 {
   "name": "mean_gulp_tasks",
   "version": "1.0.0",
-  "description": "gulp task practice in express code",
+  "description": "gulp task practice in MEAN",
   "main": "gulpfile.js",
   "dependencies": {
     "async": "^0.9.0",
@@ -73,7 +73,7 @@
   "author": "Rida Bilgrami",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RidaRidss/Express_Nodejs_Gulp_Tasks/issues"
+    "url": "https://github.com/RidaRidss/MEAN_Gulp_Tasks/issues"
   },
-  "homepage": "https://github.com/RidaRidss/Express_Nodejs_Gulp_Tasks#readme"
+  "homepage": "https://github.com/RidaRidss/MEAN_Gulp_Tasks#readme"
 }
